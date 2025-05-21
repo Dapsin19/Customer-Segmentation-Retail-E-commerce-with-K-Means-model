@@ -21,7 +21,6 @@ This project uses **K-Means Clustering** to:
 - **Preprocessing**: Feature scaling with `StandardScaler`
 - **Dimensionality Reduction**: PCA (Principal Component Analysis) for 2D visualization
 - **Cluster Evaluation**:
-  - Elbow Method
   - Silhouette Score
 
 ---

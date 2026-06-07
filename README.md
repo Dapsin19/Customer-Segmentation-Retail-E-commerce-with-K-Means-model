@@ -15,7 +15,7 @@ This project uses **K-Means Clustering** to:
 
 
 
-## 🧠 Machine Learning Approach
+## Machine Learning Approach
 
 - **Model**: K-Means Clustering
 - **Preprocessing**: Feature scaling with `StandardScaler`

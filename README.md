@@ -1,10 +1,10 @@
-# 🛍️ Customer Segmentation using K-Means Clustering
+#  Customer Segmentation using K-Means Clustering
 
 This project applies unsupervised machine learning to segment retail or e-commerce customers based on their purchasing behavior, frequency, and spending. The goal is to enable more **targeted marketing**, **personalized promotions**, and **improved customer experience** through data-driven segmentation.
 
----
 
-## 📌 Problem Statement
+
+##  Problem Statement
 
 Retail and e-commerce businesses often deal with a large and diverse customer base. A one-size-fits-all marketing strategy fails to address the needs and behaviors of different customer groups.
 
@@ -13,7 +13,7 @@ This project uses **K-Means Clustering** to:
 - Understand customer profiles and value tiers
 - Provide actionable insights for marketing and personalization strategies
 
----
+
 
 ## 🧠 Machine Learning Approach
 
@@ -23,7 +23,6 @@ This project uses **K-Means Clustering** to:
 - **Cluster Evaluation**:
   - Silhouette Score
 
----
 
-## 📁 Project Structure
+
 
